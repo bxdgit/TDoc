@@ -11,12 +11,22 @@
  [github stl](https://github.com/mapleFU/SGI-STL)
 
  [C++那些事](https://github.com/Light-City/CPlusPlusThings)
- 
+
+ [GCC, the GNU Compiler Collection](https://gcc.gnu.org/)
+
+ [GCC Dowload](https://gcc.gnu.org/releases.html)
+
+ [GNU操作系统][https://www.gnu.org/]
+
  ## opengl
  
  ## opencv
  
 ## Linux
+
+[在线linux源码(bootlin)](https://elixir.bootlin.com/linux/latest/source)
+
+[linux内核揭秘](https://www.cntofu.com/book/114/readme.html)
 
 ## 软件
 
