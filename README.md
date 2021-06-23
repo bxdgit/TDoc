@@ -38,3 +38,4 @@
 
 ## 软件
 
+[linux C++ codeEditor](https://linux.cn/article-7704-1.html)
