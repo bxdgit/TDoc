@@ -27,6 +27,8 @@
  [cppreference.com](https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)
 
  [win32 API](https://docs.microsoft.com/zh-cn/windows/win32/apiindex/windows-api-list)
+ 
+ [Slicer developer_guide](https://slicer.readthedocs.io/en/latest/developer_guide/index.html)
 
  ## opengl
 
