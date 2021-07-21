@@ -47,6 +47,8 @@
 [vulkan入门资料](https://www.zhihu.com/question/424430509)
 
 [vulkan 官网](https://www.vulkan.org/)
+
+[vulkan geek](https://geek-docs.com/vulkan/vulkan-tutorial/what-is-vulkan.html)
  
  ## opencv
  
