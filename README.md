@@ -16,6 +16,10 @@
 
  [GCC Dowload](https://gcc.gnu.org/releases.html)
 
+ [libstdc++ doc](https://gcc.gnu.org/onlinedocs/index.html#current)
+
+ [libstdc++ onlinedocs](https://gcc.gnu.org/onlinedocs/libstdc++/)
+
  [GNU操作系统](https://www.gnu.org/)
 
  [windowsVC++文档](https://docs.microsoft.com/zh-cn/windows/win32/memory/virtual-address-space?redirectedfrom=MSDN)
