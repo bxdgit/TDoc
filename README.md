@@ -58,6 +58,8 @@
 
 [linux内核揭秘](https://www.cntofu.com/book/114/readme.html)
 
+[linux命令](https://www.linuxcool.com/)
+
 ## 软件
 
 [linux C++ codeEditor](https://linux.cn/article-7704-1.html)
