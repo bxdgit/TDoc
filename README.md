@@ -75,5 +75,5 @@
 ## 深度学习 pytroch
 [神经网络数学原理视频](https://www.youtube.com/c/3blue1brown/videos)
 
-##图像处理相关
+## 图像处理相关
 [图像处理算法博文](https://www.cnblogs.com/chnhideyoshi/)
