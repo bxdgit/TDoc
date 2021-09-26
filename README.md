@@ -72,6 +72,8 @@
 
 [md2pdf](https://md2pdf.netlify.app/)
 
+屏幕畫圖軟件 Pointofix
+
 ## 深度学习 pytroch
 [神经网络数学原理视频](https://www.youtube.com/c/3blue1brown/videos)
 
