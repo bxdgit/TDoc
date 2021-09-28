@@ -74,6 +74,8 @@
 
 屏幕畫圖軟件 Pointofix
 
+[在线文档翻译](https://www.onlinedoctranslator.com/app/translationprocess-pdf)
+
 ## 深度学习 pytroch
 [神经网络数学原理视频](https://www.youtube.com/c/3blue1brown/videos)
 
