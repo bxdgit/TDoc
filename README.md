@@ -61,6 +61,7 @@
 [linux命令](https://www.linuxcool.com/)
 
 ## 软件
+[各种语言API使用示例](https://www.programcreek.com/)
 
 [linux C++ codeEditor](https://linux.cn/article-7704-1.html)
 
