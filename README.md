@@ -90,3 +90,6 @@
 
 ## 图像处理相关
 [图像处理算法博文](https://www.cnblogs.com/chnhideyoshi/)
+
+## 医学相关
+[MRI 中的问题和答案](http://mriquestions.com/index.html)
