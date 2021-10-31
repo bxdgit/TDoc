@@ -35,7 +35,10 @@
  [Slicer developer_guide](https://slicer.readthedocs.io/en/latest/developer_guide/index.html)
  
  [可视化数据流管理库teem](http://teem.sourceforge.net/index.html)
+ 
  [深入理解操作系统源码网站](http://csapp.cs.cmu.edu/3e/code.html)
+ 
+ [windows核心编程pdf](https://www.kechuang.org/t/79973)
 
  ## opengl
 
