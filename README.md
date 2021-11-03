@@ -105,3 +105,5 @@
 [dicom信息定义pdf](http://dicom.nema.org/dicom/2007/07_03pu.pdf)
 
 [Nilabel](https://nipy.org/nibabel/)
+
+[PLY格式信息以及源码](http://graphics.stanford.edu/data/3Dscanrep/)
