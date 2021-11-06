@@ -95,6 +95,12 @@
 ## 图像处理相关
 [图像处理算法博文](https://www.cnblogs.com/chnhideyoshi/)
 
+[东灵工作室CSDN](https://blog.csdn.net/www_doling_net/article/details/8763686)
+
+[VTK修炼之道-沈春旭](https://blog.csdn.net/shenziheng1/category_6114053.html)
+
+[阿兵-AI医疗的专栏](https://blog.csdn.net/webzhuce/category_9268767.html)
+
 ## 医学相关
 [MRI 中的问题和答案](http://mriquestions.com/index.html)
 
