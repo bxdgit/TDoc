@@ -39,6 +39,8 @@
  [深入理解操作系统源码网站](http://csapp.cs.cmu.edu/3e/code.html)
  
  [windows核心编程pdf](https://www.kechuang.org/t/79973)
+ 
+ [Qt开源网站霍亚飞](https://www.qter.org/)
 
  ## opengl
 
