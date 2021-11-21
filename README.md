@@ -29,6 +29,8 @@
  [cplusplus](http://www.cplusplus.com/reference/vector/vector/insert/)
 
  [cppreference.com](https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)
+ 
+ [c++ soket library](https://www.alhem.net/Sockets/)
 
  [win32 API](https://docs.microsoft.com/zh-cn/windows/win32/apiindex/windows-api-list)
  
