@@ -125,3 +125,9 @@
 [Nilabel](https://nipy.org/nibabel/)
 
 [PLY格式信息以及源码](http://graphics.stanford.edu/data/3Dscanrep/)
+
+## 图形
+
+[集合工具库](https://www.geometrictools.com/index.html)
+
+[集合工具库源码](https://github.com/davideberly/GeometricTools)
