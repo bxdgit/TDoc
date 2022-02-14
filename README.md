@@ -42,6 +42,8 @@
  
  [可视化数据流管理库teem](http://teem.sourceforge.net/index.html)
  
+ [teem getting started](http://people.kyb.tuebingen.mpg.de/tschultz/sphinx/index.html)
+ 
  [深入理解操作系统源码网站](http://csapp.cs.cmu.edu/3e/code.html)
  
  [windows核心编程pdf](https://www.kechuang.org/t/79973)
