@@ -150,6 +150,7 @@
 
 ## python
 [fluent python source code](https://github.com/fluentpython)
+[diffusion image python](https://dipy.org/)
 ## AI DataSet
 [CTSpine1](https://github.com/MIRACLE-Center/CTSpine1K)
 
